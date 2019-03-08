@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.lol.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin.lol)
+[![Build Status](https://travis-ci.org/ecommerce-network/ecommercecoin.org.svg?branch=master)](https://travis-ci.org/ecommerce-network/ecommercecoin.org)
 
-# turtlecoin.lol
+# ecommercecoin.org
 
-To submit or propose changes to [turtlecoin.lol](https://turtlecoin.lol), submit a pull request to this repository.
+To submit or propose changes to [ecommercecoin.org](https://ecommercecoin.org), submit a pull request to this repository.
 
 
 ## Developing

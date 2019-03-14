@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/ecommerce-network/ecommercecoin.org.svg?branch=master)](https://travis-ci.org/ecommerce-network/ecommercecoin.org)
-
 # ecommercecoin.org
 
 To submit or propose changes to [ecommercecoin.org](https://ecommercecoin.org), submit a pull request to this repository.

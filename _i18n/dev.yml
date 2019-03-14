@@ -19,7 +19,7 @@ navbar:
 
 # Pages
 
-# https://turtlecoin.lol/
+# https://ecommercecoin.org/
 index_page:
   meta:
     description: index_page.meta.description
@@ -103,7 +103,7 @@ index_page:
   roadmap_15: roadmap_15
   roadmap_16: roadmap_16
 
-# https://turtlecoin.lol/brand/
+# https://ecommercecoin.org/brand/
 brand_page:
   meta:
     description: brand_page.meta.description

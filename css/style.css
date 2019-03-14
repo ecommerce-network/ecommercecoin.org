@@ -55,6 +55,11 @@ html {
 	height: 100%;
 }
 
+.mainBg {
+    background: url(/images/Cinemagraph.gif) no-repeat;
+}
+
+
 a:active, a:focus {
    outline: none;
 }
@@ -137,6 +142,8 @@ button:hover,
     -moz-transition: margin-top 0.5s ease-in-out;
     -o-transition: margin-top 0.5s ease-in-out;
     transition: margin-top 0.5s ease-in-out;
+    font-weight: 600;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 .big-logo {
@@ -1010,6 +1017,8 @@ ul.social-buttons li a:active {
 	padding-bottom: 0;
 	position: relative;
 	margin:0;
+	font-weight: 600 !important;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #map-wrapper {

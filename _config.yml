@@ -1,5 +1,6 @@
-﻿baseurl: "" 
-url: "https://turtlecoin.lol"
+baseurl: "" 
+url: "https://ecommercecoin.org"
+host: 0.0.0.0
 
 # Do not copy these files to the build folder
 exclude:

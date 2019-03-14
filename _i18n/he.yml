@@ -17,7 +17,7 @@ navbar:
   support: תמיכה
   toggle_navigation: ניווט לחצנים
   resources: משאבים
-  resources_wiki: TurtleCoin Wiki
+  resources_wiki: EcommerceCoin Wiki
   resources_blog: בלוג מפתחים
   resources_dev_resources: משאבי מפתחים
   resources_brand: הנחיות מותג
@@ -25,19 +25,19 @@ navbar:
 
 # Pages
 
-# https://turtlecoin.lol/
+# https://ecommercecoin.org/
 index_page:
   meta:
-    description: TurtleCoin הינה דרך מהנה להעביר כסף בצורה פרטית לחברים ולעסקים. TurtleCoin הינו מטבע דיגיטלי בקוד פתוח, המפותח חברתית ושכל לכרות אותו, ובעל אנרק גראפי.
-TurtleCoin.lol - TurtleCoin  מטבע דיגיטלי מהנהף מהיר וקל..
+    description: EcommerceCoin הינה דרך מהנה להעביר כסף בצורה פרטית לחברים ולעסקים. EcommerceCoin הינו מטבע דיגיטלי בקוד פתוח, המפותח חברתית ושכל לכרות אותו, ובעל אנרק גראפי.
+EcommerceCoin.lol - EcommerceCoin  מטבע דיגיטלי מהנהף מהיר וקל..
 
   # banner section
-  banner_is_fast: TurtleCoin הינו מהיר
-  banner_is_easy: TurtleCoin הינו קל
-  banner_is_safe: TurtleCoin הינו ובטוח
-  banner_one_liner: TurtleCoin הינה דרך מהנה, מהירה וקלה לשלוח כסף לחברים ולעסקים
+  banner_is_fast: EcommerceCoin הינו מהיר
+  banner_is_easy: EcommerceCoin הינו קל
+  banner_is_safe: EcommerceCoin הינו ובטוח
+  banner_one_liner: EcommerceCoin הינה דרך מהנה, מהירה וקלה לשלוח כסף לחברים ולעסקים
 להורדה 
-  banner_builds: <strong>יש לנו התאמות ל Windows, Apple, and Ubuntu Linux.  </strong> אם הינך מעדיף <strong> קוד מקור </ strong>  ניתן למצוא אותו <a href="https://github.com/turtlecoin/turtlecoin/"> כאן </a> אך גם יש צורך ליצור איתנו קשר <a href="http://chat.turtlecoin.lol"> כאן </a> מכיוון שאנו מחפשים אנשים כמוך שיצטרפו אלינו.
+  banner_builds: <strong>יש לנו התאמות ל Windows, Apple, and Ubuntu Linux.  </strong> אם הינך מעדיף <strong> קוד מקור </ strong>  ניתן למצוא אותו <a href="https://github.com/turtlecoin/turtlecoin/"> כאן </a> אך גם יש צורך ליצור איתנו קשר <a href="http://chat.ecommercecoin.org"> כאן </a> מכיוון שאנו מחפשים אנשים כמוך שיצטרפו אלינו.
 
 
   # download section
@@ -48,39 +48,39 @@ TurtleCoin.lol - TurtleCoin  מטבע דיגיטלי מהנהף מהיר וקל.
 
   # fun facts section
   fun_facts_title:  עובדות צבים מעניינות
-  fun_facts_1: ל TurtleCoin יש זמן בלוק של 30 שניות,  כלומר העסקאות מאושרות מהר יותר.
-  fun_facts_2: ל TurtleCoin יש בלוקצ'יין פרטי, אף אחד לא יכול לראות את הכסף שלך חוץ ממך.
-  fun_facts_3: אתה יכול לשחזר אנרק TurtleCoin שנמחק באמצעות מפתח הצפיה שלך או מפתח ההוצאה.
+  fun_facts_1: ל EcommerceCoin יש זמן בלוק של 30 שניות,  כלומר העסקאות מאושרות מהר יותר.
+  fun_facts_2: ל EcommerceCoin יש בלוקצ'יין פרטי, אף אחד לא יכול לראות את הכסף שלך חוץ ממך.
+  fun_facts_3: אתה יכול לשחזר אנרק EcommerceCoin שנמחק באמצעות מפתח הצפיה שלך או מפתח ההוצאה.
 
   # why section
-  why_title: למה TurtleCoin ?
+  why_title: למה EcommerceCoin ?
   why_1_title: העברות מהירות
-  why_1: TurtleCoin יוצר בלוקים כל 30 שניות, בניגוד לכל 10 דקות. הכסף שלך מועבר פי 20 יותר מהר ב TurtleCoin מאשר בביטקוין או ביטקוין קאש.
+  why_1: EcommerceCoin יוצר בלוקים כל 30 שניות, בניגוד לכל 10 דקות. הכסף שלך מועבר פי 20 יותר מהר ב EcommerceCoin מאשר בביטקוין או ביטקוין קאש.
   why_2_title: פרטיות
-  why_2:ל TurtleCoin יש את אותם מאפייני פרטיות כמו ב מונרו (monero) ואיאון (Aeon). כל עסקה היא פרטית, אלא אם תבחר לעשות אותה ציבורית.
+  why_2:ל EcommerceCoin יש את אותם מאפייני פרטיות כמו ב מונרו (monero) ואיאון (Aeon). כל עסקה היא פרטית, אלא אם תבחר לעשות אותה ציבורית.
   why_3_title: קל לשימוש
-  why_3: אנו תומכים כמעט בכל מערכות ההפעלה, כולל טלפונים ניידים וניתן <a href="https://turtlecoin.lol/wallet"> ליצור ארנק נייר מאובטח בחינם <a> ולהתחיל את השימוש ב TurtleCoin בפחות מ 5 דקות.
+  why_3: אנו תומכים כמעט בכל מערכות ההפעלה, כולל טלפונים ניידים וניתן <a href="https://ecommercecoin.org/wallet"> ליצור ארנק נייר מאובטח בחינם <a> ולהתחיל את השימוש ב EcommerceCoin בפחות מ 5 דקות.
   why_4_title: קך לכרייה
-  why_4: TurtleCoin מגיע עם מעבד כרייה בסיסי משלו, אך ניתן להשתמש גם בכל תוכנת כרייה של מונרו (MONERO) שהינך רגיל אליה במידה והינך מעוניין בממשק עיבוד גרפי (GPU) או בכרייה משותפת. אנו ממליצים על <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>
+  why_4: EcommerceCoin מגיע עם מעבד כרייה בסיסי משלו, אך ניתן להשתמש גם בכל תוכנת כרייה של מונרו (MONERO) שהינך רגיל אליה במידה והינך מעוניין בממשק עיבוד גרפי (GPU) או בכרייה משותפת. אנו ממליצים על <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>
   why_5_title: קהילה
-  why_5: קהילת TurtleCoin הינה פתוחה לכל המשתמשים והמפתחים. לא יצעקו עליך כאשר דברים נשברים, ואנו מקדמים בברכה ביקורות על העבודה שלנו. הצטרף אלינו <a href="http://chat.turtlecoin.lol">דיסקורד צ'אט </a> שלנו.  תמיכה
+  why_5: קהילת EcommerceCoin הינה פתוחה לכל המשתמשים והמפתחים. לא יצעקו עליך כאשר דברים נשברים, ואנו מקדמים בברכה ביקורות על העבודה שלנו. הצטרף אלינו <a href="http://chat.ecommercecoin.org">דיסקורד צ'אט </a> שלנו.  תמיכה
   why_6_title: תמיכה
-  why_6: אנו מתפחים קהילה של מפתחים ונסיינים ב <a href="http://meta.turtlecoin.lol"> פורום meta של GitHub </a> שלנו. אתה יכול לעזור על ידי בדיקות תוכנה והגשת דוחות באגים, או אפילו רק באמצעות עידוד מהצד.
+  why_6: אנו מתפחים קהילה של מפתחים ונסיינים ב <a href="http://meta.ecommercecoin.org"> פורום meta של GitHub </a> שלנו. אתה יכול לעזור על ידי בדיקות תוכנה והגשת דוחות באגים, או אפילו רק באמצעות עידוד מהצד.
 
   # the story section
   story_title: The Story
   story_1: הרקע שלנו
-  story_2: לרוב התורמים של TurtleCoin יש זקן עבה ומלא. <strong> עובדה. </ strong> </ h3> 
+  story_2: לרוב התורמים של EcommerceCoin יש זקן עבה ומלא. <strong> עובדה. </ strong> </ h3> 
   story_3: <em> זה נותן לנו <strong> פי 10 יותר </ strong> יכולות, ומשפר את הסבלנות ואת כישורי האבחון שלנו. <i class = "far fa-smile"> </ i> </ em>
   story_4: האמת היא, שרובנו מפתחים במשרה מלאה על פרויקטים אחרים, וזו הדרך שלנו להחזיר לקהילה עם משהו מהנה.
   story_5: איך התחלנו
   story_6: בליל דצמבר קריר אחד, RockSteady ו Bebop שתו בירה אחת יותר מדי, תוך כדי דיבור על הטירוף סביב ICOs מזויפים ולא יציבים ללא שום מוצר. Bebop הניח כי זה פשוט לא יהיה אפשרי להוציא פרויקט אמיתי בימינו ללא צוות רציני, שיווק רציני, וגיוס מימון רציני.
   story_7: Rocksteady  התקרב, גירד בזקן ואז היה לו תשובה אחת...:
   story_8: <strong>".תחזיק לי את הבירה"</strong>
-  story_9: באותו לילה, 9 בדצמבר, 2017, נולד TurtleCoin.
+  story_9: באותו לילה, 9 בדצמבר, 2017, נולד EcommerceCoin.
   story_10: למה?
   story_11: יותר מדי פרויקטים מביאים <strong> מימון רב מדי </ strong> למרות שלרובם<strong> אין אפילו מוצר </ strong>. חשבנו, "למה לא לעשות את כל העניין הפוך, להתחיל עם פרויקט מהנה, לעשות את זה פשוט ונגיש ככל האפשר, ולתת לו לגדול בכוחות עצמו."
-  story_12: יש לנו אמונה חזקה באסטרטגיה שלנו ללא מימון; אם נעשה מוצר מגניב, <strong> הערך יווצר לבדו </ strong>. אם אתה חושב שאנחנו טועים, אנו נשמח <a href="http://meta.turtlecoin.lol"> לדבר </a> על זה.
+  story_12: יש לנו אמונה חזקה באסטרטגיה שלנו ללא מימון; אם נעשה מוצר מגניב, <strong> הערך יווצר לבדו </ strong>. אם אתה חושב שאנחנו טועים, אנו נשמח <a href="http://meta.ecommercecoin.org"> לדבר </a> על זה.
   story_13: עכברוש חכם אמר פעם, "הצב רק נע קדימה על ידי הוצאת הצוואר שלו החוצה .."
   story_14: ציטוט
 
@@ -89,18 +89,18 @@ TurtleCoin.lol - TurtleCoin  מטבע דיגיטלי מהנהף מהיר וקל.
   fine_print_1: הנה מספר פרטים מהירים על הפרוייקט
   fine_print_2: תגמול בלוק ממוצע
   fine_print_3: בלוק 1 כל 30 שניות
-  fine_print_4: מפתחים <br> <a href="http://chat.turtlecoin.lol"> הצטרפו אלינו </a>
+  fine_print_4: מפתחים <br> <a href="http://chat.ecommercecoin.org"> הצטרפו אלינו </a>
   fine_print_5: ללא כרייה מראש<br> ללא תעלולים
 
   # roadmap section
   roadmap_title: ציוני דרך
   roadmap_1: שלום צב
-  roadmap_2: TurtleCoin נולד <strong> 9 בדצמבר, 2017 </ strong>.
+  roadmap_2: EcommerceCoin נולד <strong> 9 בדצמבר, 2017 </ strong>.
   roadmap_3: בהתחלה, היינו שורת פקודה בלבד, מתואמים רק עבור לינוקס, הוחרמנו שוב ושוב מהפורומים באינטרנט בגין אירוח מתנות פלאש TRTL.
   roadmap_4: ארנקים לממשק משתמש גרפי
-  roadmap_5:"קהילת TurtleCoin עבדה קשה כדי להביא לנו חוויה גרפית מגוונת, כמו כן גם רענון שורת הפקודה בארנק. מהיום הראשון, אנו מחויבים לעשות את  TurtleCoin קל יותר, וזה מתחיל עם ממשק משתמש גרפי טוב. בחר באחד מהארנקים הבאים: "
+  roadmap_5:"קהילת EcommerceCoin עבדה קשה כדי להביא לנו חוויה גרפית מגוונת, כמו כן גם רענון שורת הפקודה בארנק. מהיום הראשון, אנו מחויבים לעשות את  EcommerceCoin קל יותר, וזה מתחיל עם ממשק משתמש גרפי טוב. בחר באחד מהארנקים הבאים: "
   roadmap_6: שותפויות בשוק
-  roadmap_7: אנו התחייבנו ש TurtleCoins יהיה במסחר בפומבי עד הרבעון השני של  2018, והשגנו מטרה זו במספר שווקים.
+  roadmap_7: אנו התחייבנו ש EcommerceCoins יהיה במסחר בפומבי עד הרבעון השני של  2018, והשגנו מטרה זו במספר שווקים.
   roadmap_8: הפיתוח התחיל, רבעון שני 2018
   roadmap_9: Mobius, בלוקים מהירים לא סינכרון
   roadmap_10:כאב ראש גדול עם הוכחת עבודה מסונכרן עם שרשרת ענקית, ובלוקים מהירים בדרך כלל לא עוזרים לבעיה. המטרה שלנו היא לייצר בלוקים מהרים יותר על שרשרת קצרה יותר. זו אולי המטרה האגרסיבית ביותר, והיא תזדקק להרבה יותר עזרה.
@@ -111,15 +111,15 @@ TurtleCoin.lol - TurtleCoin  מטבע דיגיטלי מהנהף מהיר וקל.
   roadmap_15: למה טוב כספומט אם הוא לא בקרבת מקום? הקש-ושלם זה העבר; הקש-ותרוויח זה המחר. הכספומט הקרוב ביותר אלייך נמצא בכיס שלך.
 
 
-# https://turtlecoin.lol/brand/
+# https://ecommercecoin.org/brand/
 brand_page:
   meta:
-    description: מדריך למותג TurtleCoin
-    title: TurtleCoin | קווים מנחים למותג
+    description: מדריך למותג EcommerceCoin
+    title: EcommerceCoin | קווים מנחים למותג
   why: למה קווים מנחים?
-  why_explanation: אנו מאמינים בתוקף כי כל אחד צריך גישה ליצור דברים נפלאים ועם TurtleCoin. לשם כך, נוצרה מערכת של קווים מנחים לשמירה על גישה מלוכדת ואיתנה, ועם זאת דרך <strong> ידידותית וקלה לגישה </ strong> עבור אנשים להביע את הרעיונות שלהם עם המותג TurtleCoin.
+  why_explanation: אנו מאמינים בתוקף כי כל אחד צריך גישה ליצור דברים נפלאים ועם EcommerceCoin. לשם כך, נוצרה מערכת של קווים מנחים לשמירה על גישה מלוכדת ואיתנה, ועם זאת דרך <strong> ידידותית וקלה לגישה </ strong> עבור אנשים להביע את הרעיונות שלהם עם המותג EcommerceCoin.
   download: הורדה
-  manual: מדריך למותג TurtleCoin
+  manual: מדריך למותג EcommerceCoin
   latest_version: גרסה אחרונה
   download_assets: הורדת משאבים
   contribute_on_github: תרום ב GitHub
